@@ -37,7 +37,7 @@ After giving the exam, the user can see their score and evaluate themselves. The
     Questions
     ![Read Image](/Images/readme_question.PNG)
 
-    Final Result
+    <p>Final Result</p>
     ![Read Image](/Images/readme_result.PNG)
 
 
