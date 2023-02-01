@@ -23,22 +23,22 @@ After giving the exam, the user can see their score and evaluate themselves. The
 2. **Result Images**
 
     Home Page
-    ![Read Image](/images/readme_home.PNG)
+    ![Read Image](/Images/readme_home.PNG)
 
     Signup Page
-    ![Read Image](/images/readme_singup.PNG)
+    ![Read Image](/Images/readme_singup.PNG)
 
     Login Page
-    ![Read Image](/images/readme_signin.PNG)
+    ![Read Image](/Images/readme_signin.PNG)
 
     Level Of Question
-    ![Read Image](/images/readme_level.PNG)
+    ![Read Image](/Images/readme_level.PNG)
 
     Questions
-    ![Read Image](/images/readme_question.PNG)
+    ![Read Image](/Images/readme_question.PNG)
 
     Final Result
-    ![Read Image](/images/readme_result.PNG)
+    ![Read Image](/Images/readme_result.PNG)
 
 
 
